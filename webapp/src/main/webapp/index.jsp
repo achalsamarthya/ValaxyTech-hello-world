@@ -3,3 +3,4 @@
 <h3> line003: Automated deployment using ansible second attempt</h3>
 <h1> line004: restarting containers using ansible</h1>
 <h1> line005: executing for no reason</h1>
+<h1> line006: Push image to Docker Hub and Pull from It to create container</h1>
